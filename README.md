@@ -1,1 +1,1 @@
-# geometry-website
+Domain is online: https://dersimizgeometri.com
